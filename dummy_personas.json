@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Mood Folio Demo Personas for Frontend Mockup",
+    "created_at": "2025-12-01"
+  },
+  "personas": [
+    {
+      "id": 1,
+      "job_title": "Backend Developer",
+      "category": "IT/Development",
+      "raw_input": "회사에서 버그를 많이 고쳤고, 서버가 안 죽게 관리했어요. 지라(Jira)도 잘 씁니다.",
+      "refined_output": "Jira를 활용한 체계적인 이슈 트래킹 프로세스를 도입하여 월 평균 20건 이상의 크리티컬 버그를 해결하였으며, 서버 모니터링 시스템 구축을 통해 서비스 가동률(Uptime)을 99.9%로 유지하는 등 안정적인 서비스 운영에 기여했습니다.",
+      "keywords": ["Server Stability", "Jira", "Troubleshooting"],
+      "mood_color": "#4A90E2"
+    },
+    {
+      "id": 2,
+      "job_title": "UI/UX Designer",
+      "category": "Design",
+      "raw_input": "앱 디자인을 예쁘게 바꿨더니 사람들이 좋아했어요. 사용자들이 불편해하는 걸 고쳤습니다.",
+      "refined_output": "사용자 심층 인터뷰(User Interview)와 A/B 테스트를 통해 UI 페인포인트(Pain Point)를 개선하였으며, 이를 통해 앱 스토어 평점을 3.5점에서 4.8점으로 향상시키고 사용자 체류 시간을 20% 증대시켰습니다.",
+      "keywords": ["User Research", "UI Improvement", "A/B Test"],
+      "mood_color": "#FF6B6B"
+    },
+    {
+      "id": 3,
+      "job_title": "Performance Marketer",
+      "category": "Marketing",
+      "raw_input": "인스타랑 구글에 광고 돌려서 물건 많이 팔았어요. 돈 쓴 것보다 더 많이 벌었습니다.",
+      "refined_output": "Meta(Instagram) 및 Google Ads 매체별 최적화 전략을 수립하여 광고 효율을 극대화하였으며, 전 분기 대비 ROAS(광고비 대비 매출액)를 300% 달성하고 신규 고객 유입 비용(CAC)을 15% 절감하는 성과를 거두었습니다.",
+      "keywords": ["ROAS", "Performance Marketing", "Data Analysis"],
+      "mood_color": "#F5A623"
+    },
+    {
+      "id": 4,
+      "job_title": "Registered Nurse (ICU)",
+      "category": "Medical",
+      "raw_input": "중환자실에서 환자들 상태 계속 체크하고, 위급할 때 빨리 대처해서 살려냈습니다. 차트 정리도 꼼꼼히 했어요.",
+      "refined_output": "중환자실(ICU) 근무 시 환자의 바이탈 사인을 실시간으로 모니터링하여 응급 상황 발생 시 골든타임 내 신속하게 대처하였으며, 정확하고 꼼꼼한 간호 기록(Charting)을 통해 의료진 간의 원활한 소통과 환자 안전 제고에 기여했습니다.",
+      "keywords": ["ICU", "Emergency Response", "Patient Care"],
+      "mood_color": "#50E3C2"
+    }
+  ]
+}

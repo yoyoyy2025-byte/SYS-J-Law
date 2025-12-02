@@ -1,0 +1,14 @@
+# Python 필수 제외 항목
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+venv/
+
+# 🔥 [중요] ChromaDB 데이터 저장소 제외 (로컬 전용)
+chroma_db/
+chroma_db.sqlite3
+
+# 모니터링 로그 DB 제외
+monitor/user_history.db
